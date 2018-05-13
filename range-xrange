@@ -1,0 +1,13 @@
+#lis = [1,2.3,'ls',1,1,2]
+
+print xrange(0,20)
+
+for i in xrange(0, 10):
+    print i
+    
+print range(0,20)
+
+for i in range(0, 10):
+    print i
+
+
