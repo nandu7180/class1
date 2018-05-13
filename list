@@ -1,0 +1,38 @@
+lis = [1,2.3,'ls',1,1,2]
+print "Bfor", lis
+#lis1 = [7,2,'mk']
+#lis.append(lis1)
+#print "Append", lis
+
+#lis.extend(lis1)
+#print "Extend", lis
+
+lis.insert(2, 'new')
+
+print "after", lis
+
+lis.remove(2.3)
+
+print "remove", lis
+
+out = lis.index('ls')
+print "index",out
+
+out1 = lis.count(1)
+print "count",out1
+
+lis.pop(1)
+print "pop", lis
+
+lis.reverse()
+
+print "reverse", lis
+
+lis.sort()
+print "sort", lis
+
+
+del(lis[1])
+print "dele", lis
+
+print len(lis)
