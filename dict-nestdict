@@ -1,0 +1,49 @@
+# creating dict
+
+dict1 = {1: 2 , "name": "Nandu"}
+
+# method1
+
+#print dict1["name"]
+#print dict1[1]
+
+# get method
+
+#print dict1.get("name")
+
+# add element
+
+#dict1 ["add"] = "Marthalli"
+
+#dict1.append("fdd")
+
+print dict1
+
+#del dict1['name']
+#print dict1
+
+#dict1.pop("add")
+
+#print dict1
+
+#dict1.popitem()
+#print dict1
+
+
+
+
+
+
+# Nested Dic
+
+
+dict_name = {1: 2, "name": "Nanu", "add": {1: "Rayachoti", 2: "Martalli", "some": "kadapa"}}
+
+# how to access
+
+print dict_name["add"] ["some"]
+
+# deltete
+
+del dict_name["add"]["some"]
+print dict_name
