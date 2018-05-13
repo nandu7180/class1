@@ -1,0 +1,11 @@
+str1 = str(raw_input("Enter: "))
+
+print type(str1)
+if str1 == "nandu":
+    print "if condition"
+
+elif str1 == 10:
+    print "elif "
+
+else:
+    print "Else part"
