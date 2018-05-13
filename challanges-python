@@ -1,0 +1,3 @@
+how to get inside dictionary key and values in a dic using for loop
+
+dic = {1: 2, "name": "Nanu", "add": {1: "Rayachoti", 2: "Martalli", "some": "kadapa"}}
