@@ -1,3 +1,8 @@
 how to get inside dictionary key and values in a dic using for loop
 
 dic = {1: 2, "name": "Nanu", "add": {1: "Rayachoti", 2: "Martalli", "some": "kadapa"}}
+
+
+d = {'dict1': {'foo': {"one": 1, "two": 2}, 'bar': {"bar12": 123}},
+     'dict2': {'baz': {"hhh": 45, "tfef": 23}, 'quux': 4},
+     'dict3': {"balu": 15, "aa": 10}}
