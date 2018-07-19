@@ -6,3 +6,20 @@ dic = {1: 2, "name": "Nanu", "add": {1: "Rayachoti", 2: "Martalli", "some": "kad
 d = {'dict1': {'foo': {"one": 1, "two": 2}, 'bar': {"bar12": 123}},
      'dict2': {'baz': {"hhh": 45, "tfef": 23}, 'quux': 4},
      'dict3': {"balu": 15, "aa": 10}}
+
+
+
+1. Bubble Sort
+4. In a given array find the number(count) of items which are a great than each item in array without using sort operation
+for example: a[4] = { 4,1,3,6}
+                Output:     4 - 1 
+                            1 - 3 
+                            3 - 2
+                            6 - 0
+                                                                                
+6. How to remove the item from given array [static array] i.e., logically
+7. In given array arrange the array in such a way odd number should be in odd index places and even numbers in even index places
+
+10. How to find the given number is prime or not [ number of loops less than n/2 ] 
+11. Find the first, second and third largest number in given array without sorting
+12. Find the Pythagoras triplets in given array
